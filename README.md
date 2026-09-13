@@ -1,9 +1,6 @@
-![Uploading Screenshot_2026-05-06_030741.webp…]()
 # Crazy Game Injector
 
 A custom game injector developed by **Yasharth Singh**.
-
-![Crazy Game Injector Screenshot](./screenshot.webp)
 
 Crazy Game Injector is a personal project designed to provide a simple and efficient way to inject and manage custom game modifications.
 
