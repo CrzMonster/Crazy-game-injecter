@@ -1,3 +1,4 @@
+![Uploading Screenshot_2026-05-06_030741.webp…]()
 # Crazy Game Injector
 
 A custom game injector developed by **Yasharth Singh**.
